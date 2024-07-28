@@ -30,12 +30,7 @@ Ensure you have the following installed on your system:
    cd snapdetect
    ```
 
-2. **Install Dependencies:**
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-3. **Download YOLO Model Files:**
+2. **Download YOLO Model Files:**
    - Download the YOLO weight file, config file, and class names file.
    - Place these files in the `models/` directory.
 
